@@ -1,0 +1,3 @@
+dependencies {
+    implementation 'org.kivy:kivy:2.0.0'
+}
